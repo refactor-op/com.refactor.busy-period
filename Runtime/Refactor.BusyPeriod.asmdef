@@ -1,0 +1,8 @@
+{
+  "name": "Refactor.BusyPeriod",
+  "rootNamespace": "Refactor.BusyPeriod",
+  "references": [
+    "UniTask"
+  ],
+  "autoReferenced": true
+}

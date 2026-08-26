@@ -1,0 +1,10 @@
+{
+  "name": "com.refactor.busy-period",
+  "version": "0.1.0",
+  "displayName": "Refactor.BusyPeriod",
+  "description": "A UniTask single-server whose activate/deactivate scope is bounded by queue quiescence.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.11"
+  }
+}
